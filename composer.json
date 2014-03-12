@@ -1,0 +1,36 @@
+{    
+    "name": " cwplus/webthumbnail",
+    "description": "Webthumbnail module, is ZF2 module, will help you to generate screen captures from your website or another website, based on the API webthumbnail.org ",
+    "license": "MIT",
+    "type": "zf2-module",
+    "version": "1.0.0-dev",
+    "keywords": ["screenshot","web screenshot","web thumb","webthumbnail","web thumbnail","thumbnail","snapshot","web snapshot","cwplus","zf2"],
+    "homepage": "http://github.com/cwplus/webthumbnail",
+    "authors": [
+        {
+            "name": "El Hakym Khalid",
+            "email": "khalid.elhakym@gmail.com",
+            "homepage": "http://www.creationwebplus.be/",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:cwplus/webthumbnail.git"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": ">=2.1.0"
+    },    
+    "autoload": {
+        "psr-0": {
+            "Webthumbnail": "src/"
+        },
+        "classmap": [
+            "./Module.php"
+        ]
+    }
+}
