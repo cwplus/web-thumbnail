@@ -5,7 +5,7 @@
     "type": "zf2-module",
     "version": "1.0.0-dev",
     "keywords": ["screenshot","web screenshot","web thumb","webthumbnail","web thumbnail","thumbnail","snapshot","web snapshot","cwplus","zf2"],
-    "homepage": "http://github.com/cwplus/webthumbnail",
+    "homepage": "http://github.com/cwplus/web-thumbnail",
     "authors": [
         {
             "name": "El Hakym Khalid",
@@ -18,7 +18,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "git@github.com:cwplus/webthumbnail.git"
+            "url": "git@github.com:cwplus/web-thumbnail.git"
         }
     ],
     "require": {
