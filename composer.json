@@ -1,5 +1,5 @@
 {    
-    "name": " cwplus/webthumbnail",
+    "name": " cwplus/web-thumbnail",
     "description": "Webthumbnail module, is ZF2 module, will help you to generate screen captures from your website or another website, based on the API webthumbnail.org ",
     "license": "MIT",
     "type": "zf2-module",
