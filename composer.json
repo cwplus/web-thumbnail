@@ -18,7 +18,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:cwplus/web-thumbnail.git"
+            "url": "http://github.com/cwplus/web-thumbnail"
         }
     ],
     "require": {
