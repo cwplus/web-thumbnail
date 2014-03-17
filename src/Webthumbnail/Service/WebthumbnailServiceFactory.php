@@ -7,7 +7,6 @@ use Zend\ServiceManager\ServiceLocatorInterface;
 
 /**
 * WebthumbnailServiceFactory
-*
 * @author El Hakym Khalid <khalid.elhakym@gmail.com>
 */
 
