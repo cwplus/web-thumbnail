@@ -17,7 +17,7 @@
     "minimum-stability": "dev",
     "repositories": [
         {
-            "type": "git",
+            "type": "vcs",
             "url": "git@github.com:cwplus/web-thumbnail.git"
         }
     ],
