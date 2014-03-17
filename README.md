@@ -11,7 +11,7 @@ Installation
 
     ```json
     "require": {
-        "cwplus/webthumbnail": "master"
+        "cwplus/web-thumbnail": "master"
     }
     ```
 
@@ -24,7 +24,7 @@ Installation
 #### Or just clone the repos:
     
     # Install ZF2 Module
-    git clone https://github.com/cwplus/Webthumbnail.git vendor/cwplus/webthumbnail
+    git clone https://github.com/cwplus/web-thumbnail.git vendor/cwplus/web-thumbnail
     
 
 #### Post installation
@@ -110,7 +110,7 @@ Credits
 
 Webthumbnail module is based on the API of webthumbnail.org
 
-[webthumbnail]: https://github.com/cwplus/Webthumbnail.git
+[webthumbnail]: https://github.com/cwplus/web-thumbnail.git
 
     
     
