@@ -11,7 +11,7 @@ Installation
 
     ```json
     "require": {
-        "cwplus/web-thumbnail": "master"
+        "cwplus/web-thumbnail": "dev-master"
     }
     ```
 
