@@ -6,6 +6,4 @@ php:
 env:
   - ZF_VERSION=v2.0.5
 before_install:
-  - php /home/travis/.phpenv/versions/5.3.27/bin/composer.phar self-update
-  - php /home/travis/.phpenv/versions/5.4.24/bin/composer.phar self-update
-  - php /home/travis/.phpenv/versions/5.5.9/bin/composer.phar self-update
+  - php composer.phar self-update
