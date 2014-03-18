@@ -1,4 +1,5 @@
 language: php
-before_install:
-  - sudo php composer.phar self-update
-  - sudo php composer.phar update
+before_script:
+  - wget http://getcomposer.org/composer.phar
+  - php composer.phar self-update
+  - php composer.phar install --prefer-source
