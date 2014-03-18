@@ -6,4 +6,5 @@ php:
 env:
   - ZF_VERSION=v2.0.5
 before_install:
-  - php composer.phar self-update
+  - sudo php composer.phar self-update
+  - sudo php composer.phar update
